@@ -10,8 +10,8 @@
 
 ### Diyagram
 #### ---Başlangıç---
-![Başlangıc](https://i.hizliresim.com/QL8VlA.png)
+![Başlangıc](resimler/bas.png)
 #### ---Tıklama---
-![Tıklama](https://i.hizliresim.com/XM8Poo.png)
+![Tıklama](resimler/tik.png)
 Geliştirci: © ErenKrt
 İg: Ep.Eren
