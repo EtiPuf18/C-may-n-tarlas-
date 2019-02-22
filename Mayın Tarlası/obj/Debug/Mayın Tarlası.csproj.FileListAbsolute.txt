@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe.config
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.pdb
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Form1.resources
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Properties.Resources.resources
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.exe
+C:\Users\pc\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.pdb
